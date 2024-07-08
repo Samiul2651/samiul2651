@@ -1,4 +1,4 @@
-# Hi, I'm [Ishtiaq Samiul] 👋
+# Hi, I'm Ishtiaq Samiul 👋
 
 <!--![Header Image](path/to/your/header/image.png)-->
 
