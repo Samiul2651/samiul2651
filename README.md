@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Ishtiaq Samiul, a Final Year Student in Brac U
 
 - **Programming Languages:** C++, Java, JavaScript
 - **Frameworks:** SpringBoot, Angular
-- **Databases:** MySQl
+- **Databases:** MySQL
 
 ## 🏆 GitHub Stats
 
