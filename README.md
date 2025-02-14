@@ -3,15 +3,15 @@
 Welcome to my GitHub profile! I'm Ishtiaq Samiul, a Final Year Student in Brac University. Here's a little bit about me:
 
 ## 🚀 About Me 
-- 🎓 I’m currently in my final year of Computer Science at Brac University.
-- 🌱 I’m currently learning Java, Springboot, Javascript, Angular.
+- 🎓 I’m currently working as a Associate Software Engineer at Orbitax Bangladesh.
+- 🌱 I’m currently learning .Net, C#, Typescript, Angular.
 - 📫 How to reach me: ishtiak.samiul.2651@gmail.com.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** C++, Java, JavaScript
-- **Frameworks:** SpringBoot, Angular
-- **Databases:** MySQL
+- **Programming Languages:** C++, C#, TypeScript
+- **Frameworks:** C#, Angular
+- **Databases:** MySQL, MongoDB
 
 ## 🏆 GitHub Stats
 
