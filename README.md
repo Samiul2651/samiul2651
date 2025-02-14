@@ -1,9 +1,9 @@
 # Hi, I'm Ishtiaq Samiul 👋
 
-Welcome to my GitHub profile! I'm Ishtiaq Samiul, a Final Year Student in Brac University. Here's a little bit about me:
+Welcome to my GitHub profile! I'm Ishtiaq Samiul, an Associate Software Engineer. Here's a little bit about me:
 
 ## 🚀 About Me 
-- 🎓 I’m currently working as a Associate Software Engineer at Orbitax Bangladesh.
+- 🎓 I’m currently working as an Associate Software Engineer at Orbitax Bangladesh.
 - 🌱 I’m currently learning .Net, C#, Typescript, Angular.
 - 📫 How to reach me: ishtiak.samiul.2651@gmail.com.
 
