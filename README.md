@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Ishtiaq Samiul, an Associate Software Engineer
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages:** C++, C#, TypeScript
-- **Frameworks:** C#, Angular
+- **Frameworks:** .Net, Angular
 - **Databases:** MySQL, MongoDB
 
 ## 🏆 GitHub Stats
